@@ -1,24 +1,27 @@
 {
-  "name": "syncfusion-javascript",
-  "version": "14.1.0.41",
-  "description": "Syncfusion JavaScript Widgets.",
-   "homepage": "http://syncfusion.com/products/javascript",
-   "author": "Syncfusion",
-   "repository": {
-    "type": "git",
-    "url": "https://github.com/syncfusion/JavaScript-Widgets.git"
-  },
-  "jspm": {
-    "main": "/",
-    "shim": {
-      "scripts/web": {
-        "deps": ["jquery", "jquery.easing"]
-      }
+    "name": "syncfusion-javascript",
+    "version": "14.1.0.41",
+    "description": "Syncfusion JavaScript Widgets.",
+    "homepage": "http://syncfusion.com/products/javascript",
+    "author": "Syncfusion",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/karthickthangasamy/syncfusion-widgets.git"
     },
-    "files": [
-      "css",
-      "fonts",
-      "js"
-    ]
-  }
+    "jspm": {
+        "main": "/",
+        "shim": {
+            "Scripts/web": {
+                "deps": [
+                    "jquery",
+                    "jquery.easing"
+                ]
+            }
+        },
+        "files": [
+            "css",
+            "fonts",
+            "js"
+        ]
+    }
 }
