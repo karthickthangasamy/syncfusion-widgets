@@ -9,7 +9,7 @@
     "url": "https://github.com/syncfusion/JavaScript-Widgets.git"
   },
   "jspm": {
-    "main": "/",
+    "main": "./",
     "shim": {
       "scripts/web": {
         "deps": ["jquery", "jquery.easing"]
