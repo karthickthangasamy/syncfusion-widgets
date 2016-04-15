@@ -8,5 +8,32 @@
     "jquery.easing": "*",
     "Microsoft.jQuery.Unobtrusive.Ajax": "*",
     "Microsoft.jQuery.Unobtrusive.Validation": "*"
-  }
+  },
+  "authors": [
+    "Syncfusion"
+  ],
+  "main": "Scripts/common/ej.core.min.js",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "html5",
+    "javascript",
+    "jquery",
+    "ui",
+    "framework",
+    "syncfusion-javascript"
+  ],
+  "license": "Syncfusion",
+  "homepage": "http://www.github.com/karthickthangasamy/syncfusion-widgets",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components",
+    "test",
+    "tests"
+  ]
 }
