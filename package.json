@@ -28,6 +28,10 @@
   "engines": {
     "node": ">=0.10.1"
   },
+  "files": [
+    "Scripts",
+    "Content" 
+  ],
   "jspm": {
     "main": "/",
     "shim": {
