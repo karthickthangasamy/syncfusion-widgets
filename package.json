@@ -1,0 +1,37 @@
+{
+  "name": "syncfusion-javascript widgets",
+  "description": "syncfusion javascript widgets.",
+  "version": "14.1.0.43",
+  "keywords": [
+    "syncfusion",
+    "syncfusion-javascript"    
+  ],
+  "homepage": "http://syncfusion.com",
+  "author": "Syncfusion",
+  
+  "main": "./Scripts/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karthickthangasamy/syncfusion-widgets.git"
+  },
+  "bugs": {
+    "url": "hhttps://github.com/karthickthangasamy/issues"
+  },
+  "license": "Syncfusion", 
+  "engines": {
+    "node": ">=0.10.1"
+  },
+  "jspm": {
+    "main": "/",
+    "shim": {
+      "/": {
+        "deps": "[jquery,jquery.easing]"
+      }
+    },
+    "files": [
+      "css",
+      "fonts",
+      "js"
+    ]
+  }
+}
