@@ -3,9 +3,9 @@
   "version": "14.1.0.41",
   "description": "Bower package of Syncfusion.JavaScript.",
   "dependencies": {
-    "jquery": "*",
-    "jquery-validation": "*",
-    "jquery.easing": "*",
+    "jquery": "~2.2.3",
+    "jquery-validation": "~1.15.0",
+    "jquery.easing": "~1.3.0",
     "Microsoft.jQuery.Unobtrusive.Ajax": "*",
     "Microsoft.jQuery.Unobtrusive.Validation": "*"
   },
