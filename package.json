@@ -16,7 +16,7 @@
   "homepage": "http://syncfusion.com",
   "author": "Syncfusion",
   
-  "main": "./Scripts/",
+  "main": "./",
   "repository": {
     "type": "git",
     "url": "https://github.com/karthickthangasamy/syncfusion-widgets.git"

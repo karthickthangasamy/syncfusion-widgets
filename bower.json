@@ -12,7 +12,7 @@
   "authors": [
     "Syncfusion"
   ],
-  "main": "Scripts/common/ej.core.min.js",
+  "main": "./",
   "moduleType": [
     "amd",
     "globals"
